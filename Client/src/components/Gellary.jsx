@@ -2,16 +2,16 @@ import React from "react";
 
 function Gallery() {
   const galleryImages = [
-    "/public/img5.jpg",
-    "/public/img6.webp",
-    "/public/img9.webp",
-    "/public/img8.webp",
-    "/public/img12.jpg",
+    "/img5.jpg",
+    "/img6.webp",
+    "/img9.webp",
+    "/img8.webp",
+    "/img12.jpg",
 
-    "/public/img7.avif",
-    "/public/img10.webp",
-    "/public/img2.jpg",
-    "/public/img1.jpg",
+    "/img7.avif",
+    "/img10.webp",
+    "/img2.jpg",
+    "/img1.jpg",
   ];
 
   return (
